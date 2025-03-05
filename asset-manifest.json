@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajudayasmin/static/css/main.aed7e472.css",
+    "main.js": "/ajudayasmin/static/js/main.3269a4c5.js",
+    "static/js/453.69f3745b.chunk.js": "/ajudayasmin/static/js/453.69f3745b.chunk.js",
+    "index.html": "/ajudayasmin/index.html",
+    "main.aed7e472.css.map": "/ajudayasmin/static/css/main.aed7e472.css.map",
+    "main.3269a4c5.js.map": "/ajudayasmin/static/js/main.3269a4c5.js.map",
+    "453.69f3745b.chunk.js.map": "/ajudayasmin/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed7e472.css",
+    "static/js/main.3269a4c5.js"
+  ]
+}
